@@ -1,0 +1,30 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="GroupPanel" iskey="true" value="GroupPanel">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">Aqua</property>
+    <property name="BackColor2">192, 255, 255</property>
+  </property>
+  <property name="OddRow" iskey="true" value="OddRow">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">Lime</property>
+    <property name="BackColor2">Blue</property>
+  </property>
+  <property name="Row" iskey="true" value="Row">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">255, 255, 192</property>
+    <property name="BackColor2">255, 192, 192</property>
+  </property>
+  <property name="ColumnFilterButton" iskey="true" value="ColumnFilterButton">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">128, 255, 255</property>
+    <property name="BackColor2">255, 128, 255</property>
+  </property>
+</XtraSerializer>
